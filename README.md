@@ -1,2 +1,2 @@
-# rlb.github.io
+# RLB-team.github.io
 Raiders of the Lost Bot experimental website
